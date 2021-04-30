@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/instadownloader/static/css/main.84670e2c.chunk.css",
+    "main.js": "/instadownloader/static/js/main.94323654.chunk.js",
+    "main.js.map": "/instadownloader/static/js/main.94323654.chunk.js.map",
+    "runtime-main.js": "/instadownloader/static/js/runtime-main.e6eea974.js",
+    "runtime-main.js.map": "/instadownloader/static/js/runtime-main.e6eea974.js.map",
+    "static/js/2.82a6a601.chunk.js": "/instadownloader/static/js/2.82a6a601.chunk.js",
+    "static/js/2.82a6a601.chunk.js.map": "/instadownloader/static/js/2.82a6a601.chunk.js.map",
+    "index.html": "/instadownloader/index.html",
+    "static/css/main.84670e2c.chunk.css.map": "/instadownloader/static/css/main.84670e2c.chunk.css.map",
+    "static/js/2.82a6a601.chunk.js.LICENSE.txt": "/instadownloader/static/js/2.82a6a601.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6eea974.js",
+    "static/js/2.82a6a601.chunk.js",
+    "static/css/main.84670e2c.chunk.css",
+    "static/js/main.94323654.chunk.js"
+  ]
+}
